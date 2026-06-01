@@ -9,6 +9,14 @@ counts `starred_at` events from the stargazers API for a recent window. This
 means it can produce a 7-day ranking without waiting for a local baseline
 snapshot to accumulate.
 
+## Project Status
+
+- Latest release: [v0.1.2](https://github.com/cettyTheDev/codex-skill-radar/releases/tag/v0.1.2)
+- CI: Python 3.10, 3.11, and 3.12 on GitHub Actions.
+- Maintenance surface: issue templates, pull request template, security policy, contribution guide, and code of conduct.
+- Latest generated report: [reports/latest.md](reports/latest.md)
+- Methodology notes: [docs/methodology.md](docs/methodology.md)
+
 ## What It Tracks
 
 - Repositories that mention Codex skills, Codex plugins, `SKILL.md`, or

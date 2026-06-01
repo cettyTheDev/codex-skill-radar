@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "codex-skill-radar"
-version = "0.1.0"
+version = "0.1.2"
 description = "Rank fast-growing GitHub repositories related to Codex skills and plugins."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -28,4 +28,3 @@ codex-skill-radar = "codex_skill_radar.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
