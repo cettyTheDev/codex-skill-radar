@@ -1,5 +1,7 @@
 # Codex Skill Radar
 
+[![CI](https://github.com/cettyTheDev/codex-skill-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/cettyTheDev/codex-skill-radar/actions/workflows/ci.yml)
+
 Find fast-growing GitHub repositories related to Codex skills and plugins.
 
 The radar discovers candidate repositories with GitHub repository search, then
